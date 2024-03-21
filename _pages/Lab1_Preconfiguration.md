@@ -40,7 +40,7 @@ Once you complete this preconfiguration lab, you are free to move on to either L
 
 ### Configuration Order
 
-<img align="middle" src="/LTRCCT3002/assets/images/Lab1_ConfigOrder.png" width="1000" />
+<img align="middle" src="/assets/images/Lab1_ConfigOrder.png" width="1000" />
 <br/>
 <br/>
 
