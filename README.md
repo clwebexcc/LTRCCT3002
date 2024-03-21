@@ -5,7 +5,7 @@ date: 2023-10-04
 layout: post
 ---
 
-[Switch to LIGHT MODE](https://webexone.github.io/digital/){:target="\_blank"}
+[Switch to LIGHT MODE](https://clwebexcc.github.io/LTRCCT3002/){:target="\_blank"}
 
 <img align="middle" src="/LTRCCT3002/assets/images/Admin.jpeg" width="1000" />
 
