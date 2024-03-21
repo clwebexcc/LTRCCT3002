@@ -29,7 +29,7 @@ These labs are specially designed for this Webex ONE session. The purpose of the
 | Management Portal    | [https://portal.wxcc-us1.cisco.com/portal](https://portal.wxcc-us1.cisco.com/portal){:target="\_blank"} | wxcclabs+admin_ID<0XX>@gmail.com |
 | Webex Connect        | [https://labtenant.us.webexconnect.io/](https://labtenant.us.webexconnect.io){:target="\_blank"}        | wxcclabs+admin_ID<0XX>@gmail.com |
 | Agent Desktop        | [https://desktop.wxcc-us1.cisco.com](https://desktop.wxcc-us1.cisco.com){:target="\_blank"}             | wxcclabs+agent_ID<0XX>@gmail.com |
-
+| Google Cloud Portal  | [https://cloud.google.com](https://cloud.google.com){:target="\_blank"}                                 | wxcclabs+agent_ID<0XX>@gmail.com |
 > **NOTE:**  
 > A lab ID will be assigned to you at the beginning of the lab. It will be in the form of <ID0XX> where 0XX is your 3-digit lab number. This ID number will be part of all admin and agent usernames used in this lab. A unique password will also be assigned to you for this account. All accounts used in this lab will use SSO
 
