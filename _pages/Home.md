@@ -13,19 +13,19 @@ Welcome to the Lab Guide Library. Here you will find the step-by-step guides on 
 
 | Lab # | Topic                    | URL                                                       |
 | ----- | ------------------------ | --------------------------------------------------------- |
-| ----- | Before you Begin         | [Lab Information](/digital/pages/Lab0_Info)               |
-| Lab 1 | Preconfiguration         | [Preconfiguration](/digital/pages/Lab1_Preconfiguration)  |
-| Lab 2 | Email Configuration      | [Email creation end to end](/digital/pages/Lab2_Email)    |
-| Lab 3 | Chat Configuration       | [Live Chat creation end to end](/digital/pages/Lab3_Chat) |
-| Lab 4 | Facebook Messenger Setup | [FBM creation end to end](/digital/pages/Lab4_FBM)        |
-| Lab 5 | SMS Setup                | [SMS creation end to end](/digital/pages/Lab5_SMS)        |
-| Lab 6 | WhatsApp Messenger Setup | [WhatsApp configuration](/digital/pages/Lab6_Whatsapp)    |
+| ----- | Before you Begin         | [Lab Information](/LTRCCT3002/pages/Lab0_Info)               |
+| Lab 1 | Preconfiguration         | [Preconfiguration](/LTRCCT3002/pages/Lab1_Preconfiguration)  |
+| Lab 2 | Email Configuration      | [Email creation end to end](/LTRCCT3002/pages/Lab2_Email)    |
+| Lab 3 | Chat Configuration       | [Live Chat creation end to end](/LTRCCT3002/pages/Lab3_Chat) |
+| Lab 4 | Facebook Messenger Setup | [FBM creation end to end](/LTRCCT3002/pages/Lab4_FBM)        |
+| Lab 5 | SMS Setup                | [SMS creation end to end](/LTRCCT3002/pages/Lab5_SMS)        |
+| Lab 6 | WhatsApp Messenger Setup | [WhatsApp configuration](/LTRCCT3002/pages/Lab6_Whatsapp)    |
 
 ## Bonus section - Advanced Lab Exercises
 
 | Lab #  | Topic                                | URL                                                                                 |
 | ------ | ------------------------------------ | ----------------------------------------------------------------------------------- |
-| Lab 7  | Advanced Email Configuration         | [Auto Reply, PIQ, Subject Filter, API requests](/digital/pages/Lab7_Email_Advanced) |
-| Lab 8  | Event and Rules - agent productivity | [Event and Rules - agent productivity](/digital/pages/Lab8_AgentProductivity)       |
-| Lab 9  | Flow Debug Capabilities              | [Flow Debug Capabilities](/digital/pages/Lab9_Troubleshooting)                      |
-| Lab 10 | Q&A Bot builder                      | [Q&A Bot builder](/digital/pages/Lab10_Bot)                                         |
+| Lab 7  | Advanced Email Configuration         | [Auto Reply, PIQ, Subject Filter, API requests](/LTRCCT3002/pages/Lab7_Email_Advanced) |
+| Lab 8  | Event and Rules - agent productivity | [Event and Rules - agent productivity](/LTRCCT3002/pages/Lab8_AgentProductivity)       |
+| Lab 9  | Flow Debug Capabilities              | [Flow Debug Capabilities](/LTRCCT3002/pages/Lab9_Troubleshooting)                      |
+| Lab 10 | Q&A Bot builder                      | [Q&A Bot builder](/LTRCCT3002/pages/Lab10_Bot)                                         |
