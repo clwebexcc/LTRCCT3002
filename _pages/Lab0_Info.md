@@ -14,7 +14,7 @@ layout: post
 
 # Introduction
 
-Digital channels are now more impactful than ever. 
+XXXX are now more impactful than ever. 
 These labs are specially designed for this Webex ONE session. The purpose of the labs is to give you a clear understanding of the New Digital Channels functionality. You will learn how to create and configure all digital channels including Chat, Email, Whatsapp and SMS. You will get a clear understanding of how to use scripts and troubleshoot issues by using the debug console.
 
 ### Lab Topology
