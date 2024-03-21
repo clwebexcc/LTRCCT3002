@@ -1,6 +1,6 @@
 ---
 title: 'Lab Pre-requisites'
-author: Dave Easton, Karthik Sundaram
+author: Krishna, Mykola
 date: 2023-10-04
 layout: post
 ---
