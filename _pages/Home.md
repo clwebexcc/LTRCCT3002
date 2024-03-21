@@ -1,11 +1,11 @@
 ---
-title: 'Dip into the NEW Digital Channels for Webex Contact Center'
-author: Dave Easton, Karthik Sundaram
-date: 2023-10-04
+title: 'Dip into the LTRCCT3002 for Webex Contact Center'
+author: Krishna Tyagi, Mykola 
+date: 2024-03-20
 layout: post
 ---
 
-<img align="middle" src="/digital/assets/images/Admin.jpeg" width="1000" />
+<img align="middle" src="/LTRCCT3002/assets/images/Admin.jpeg" width="1000" />
 
 Welcome to the Lab Guide Library. Here you will find the step-by-step guides on how to setup service for all the available digital channels.
 
