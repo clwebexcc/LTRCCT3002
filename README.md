@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-author: Dave Easton, Karthik Sundaram
+author: Krishna Tyagi
 date: 2023-10-04
 layout: post
 ---
@@ -9,7 +9,7 @@ layout: post
 
 <img align="middle" src="/LTRCCT3002/assets/images/Admin.jpeg" width="1000" />
 
-Welcome to the Lab Guide Library. Here you will find the step-by-step guides on how to setup service for all the available digital channels.
+Welcome to the Lab Guide Library. Here you will find the step-by-step guides on how to setup service for all the available LTRCCT3002
 
 ## Mandatory section - All Channels Lab Exercises
 
